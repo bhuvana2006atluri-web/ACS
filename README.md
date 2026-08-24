@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhuvana2006atluri-web/ACS/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/bhuvana2006atluri-web/ACS/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhuvana2006atluri-web/ACS/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bhuvana2006atluri-web/ACS/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
